@@ -19,7 +19,7 @@ public class Flight {
 	private boolean flyType; // domestic (false) or international(true)
 	private int internationFlyTax; 
 	
-	private int baseFair; // always include 5% as airport surcharge and 30% as fuel cost
+	private int baseFare; // always include 5% as airport surcharge and 30% as fuel cost
 	private int finalCost;// based on Airliner calendar and other criteria's 
 	
 	
