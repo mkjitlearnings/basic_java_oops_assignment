@@ -1,8 +1,8 @@
 
 Requirement 
 ------------
-1) Calculate the current fair the flight , based on various scenarios. (Flight.java)
-2) Print the Flight details and fair break up. ( FlightDetails.jav)
+1) Calculate the current fare of the flight , based on various scenarios. (Flight.java)
+2) Print the Flight details and fare break up. ( FlightDetails.jav)
 
 
 Given
