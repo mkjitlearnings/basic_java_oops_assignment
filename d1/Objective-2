@@ -1,0 +1,8 @@
+Implementening Abstract class and Interface Features
+------------------------------------------------------------
+
+1) Create Flight as Abstract class and Domestic and International Flights as Concreate Sub Classes
+2) Make calculateCost() as abstract which will have saperate logic based on flight type (domestic or international).
+
+
+
